@@ -1,7 +1,11 @@
 { 
     "Name": "J.J. Wertkin", 
     "Pronouns": ["He", "Him", "His"], 
-    "Ask Me About": [ "Cyber Security", "Penetration Testing", "Bug Bounties", "Open Source Intelligence" 
+    "Ask Me About": [ 
+        "Cyber Security",
+        "Penetration Testing",
+        "Bug Bounties",
+        "Open Source Intelligence" 
     ], 
     "Languages": { 
         "Python": "Advanced",
@@ -41,7 +45,7 @@
             "Terraform",
             "Kubernetes" 
         ], 
-        "Cyber Security": [ 
+        "Cybersecurity": [ 
             "Shodan",
             "Splunk",
             "Nessus",
