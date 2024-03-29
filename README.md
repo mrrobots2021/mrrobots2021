@@ -56,7 +56,6 @@
           "Windows",
           "MacOS",
           "Linux"
-        ],
+        ]
     }
 }
-
