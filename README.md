@@ -1,94 +1,60 @@
-{
-    "Name": "Aidan Holland",
-    "Pronouns": ["He", "Him", "His"],
-    "Ask Me About": [
-        "Cyber Security",
-        "Open Source Development"
-    ],
-    "Languages": {
+{ 
+    "Name": "J.J. Wertkin", 
+    "Pronouns": ["He", "Him", "His"], 
+    "Ask Me About": [ "Cyber Security", "Penetration Testing", "Bug Bounties", "Open Source Intelligence" 
+    ], 
+    "Languages": { 
         "Python": "Advanced",
         "JavaScript": "Advanced",
-        "TypeScript": "Intermediate",
-        "Java": "Intermediate",
-        "Go": "Intermediate",
+        "Java": "Advanced",
         "Bash": "Intermediate",
-        "C++": "Beginner",
-        "C": "Beginner",
-        "Racket": "Beginner"
+        "C++": "Intermediate", 
+        "C": "Intermediate",
+        "Perl": "Beginner",
+        "Go": "Beginner" 
     },
-    "Technologies": {
-        "Backend": [
-          "Fast API",
-          "Flask", 
-          "Django",
-          "Sanic",
-          "SQLAlchemy",
-          "Express",
-          "Protobufs",
-          "Pyramid",
-          "Jinja"
+    "Technologies": { 
+        "Backend": [ 
+            "Django",
+            "Springboot" 
+        ], 
+        "Frontend": [ 
+            "Node.js",
+            "React.js" 
+        ], 
+        "Database": [ 
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB" 
+        ], 
+        "Serverless": [ 
+            "AWS Lambda",
+            "Azure Functions" 
+        ], 
+        "Dev Ops": [ 
+            "AWS",
+            "Azure",
+            "Git",
+            "GitHub",
+            "GitLab",
+            "Docker",
+            "Terraform",
+            "Kubernetes" 
+        ], 
+        "Cyber Security": [ 
+            "Shodan",
+            "Splunk",
+            "Nessus",
+            "Nmap",
+            "Nikto",
+            "Metasploit",
+            "Wireshark",
+            "Ghidra"
+        ], 
+        "Operating Systems": [ 
+            "Windows",
+            "MacOS",
+            "Linux" 
         ],
-        "Frontend": [
-          "Node.js",
-          "React.js",
-          "Redux",
-          "Storybook",
-          "Jest"
-        ],
-        "Mobile": [
-          "React Native"
-        ],
-        "Database": [
-          "MySQL",
-          "PostgreSQL",
-          "MongoDB",
-          "ElasticSearch",
-          "Oracle"
-        ],
-        "Serverless": [
-          "AWS Lambda",
-          "GCP Cloud Functions",
-          "Azure Functions",
-          "Heroku"
-        ],
-        "Dev Ops": [
-          "AWS",
-          "GCP",
-          "Git",
-          "GitHub",
-          "GitLab",
-          "Docker",
-          "Terraform",
-          "Kubernetes",
-        ],
-        "Cyber Security": [
-          "Censys",
-          "Shodan",
-          "Splunk",
-          "Maltego",
-          "Nessus",
-          "Nmap"
-        ],
-        "Operating Systems": [
-          "macOS",
-          "Linux"
-        ],
-        "Design": [
-          "Figma",
-          "Adobe XD"
-        ],
-        "Misc": [
-          "Firebase",
-          "Adobe Premiere Pro"
-        ],
-    },
-    "Stats": {
-        "Account Age": "6 years",
-        "Pushed": "3074 commits",
-        "Opened": "156 issues",
-        "Submitted": "512 pull requests",
-        "Received": "670 stars",
-        "Own": "63 repositories",
-        "Contributed to": "42 public repositories",
     }
 }
